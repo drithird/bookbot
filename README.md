@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first boot project
+BookBot is my first project
